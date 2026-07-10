@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Shuhua Chemical logo">
+  <rect x="4" y="4" width="88" height="88" rx="4" fill="#0b4f80"/>
+  <rect x="12" y="12" width="72" height="72" fill="none" stroke="#fff" stroke-width="4"/>
+  <path d="M22 61h52" stroke="#fff" stroke-width="6"/>
+  <path d="M26 70h44" stroke="#c62828" stroke-width="5"/>
+  <path d="M32 27h31l-9 22H41z" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M23 54c12-10 23-4 35-15 6-6 10-12 17-16" fill="none" stroke="#d8a94d" stroke-width="5" stroke-linecap="round"/>
+</svg>

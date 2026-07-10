@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop stop-color="#1b789a"/>
+      <stop offset=".55" stop-color="#0b3e63"/>
+      <stop offset="1" stop-color="#061a2f"/>
+    </linearGradient>
+    <linearGradient id="ship" x1="0" x2="1">
+      <stop stop-color="#d8e8ee"/>
+      <stop offset="1" stop-color="#8eb2c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <path d="M0 680c220-84 392 24 582-32 172-50 314-126 526-66 176 49 310 5 492-54v472H0z" fill="#0b5778" opacity=".72"/>
+  <path d="M0 760c240-72 382 28 600-18 197-42 348-90 544-34 171 49 289 38 456-8v300H0z" fill="#07314f" opacity=".9"/>
+  <g opacity=".62">
+    <path d="M868 420h382l-56 118H740l-66-82h170z" fill="url(#ship)"/>
+    <path d="M922 318h210v102H892z" fill="#e8f3f6"/>
+    <path d="M954 260h94v58h-94z" fill="#d8a94d"/>
+    <path d="M792 390h-82v66h130z" fill="#d8e8ee"/>
+    <path d="M930 350h36M1004 350h36M1078 350h36" stroke="#0b3e63" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="3" opacity=".17">
+    <path d="M102 724c82-24 132-24 214 0s132 24 214 0 132-24 214 0"/>
+    <path d="M860 776c82-24 132-24 214 0s132 24 214 0 132-24 214 0"/>
+    <path d="M88 842c82-24 132-24 214 0s132 24 214 0 132-24 214 0"/>
+  </g>
+</svg>

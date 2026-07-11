@@ -28,7 +28,7 @@
       var name = formData.get("name") || "";
       var contact = formData.get("contact") || "";
       var message = formData.get("message") || "";
-      var subject = "天津书华化工有限公司官网咨询";
+      var subject = "天津市书华化工有限公司官网咨询";
       var body = [
         "客户姓名: " + name,
         "联系方式: " + contact,
